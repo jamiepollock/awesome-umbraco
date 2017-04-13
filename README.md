@@ -16,7 +16,7 @@ The goal is to build a categorized community-driven collection of very well-know
   * [Property Editors](#property-editors)
   * [SEO Tools](#seo-tools)
 * [Developer tools](#developer-tools)
-* [eCommerce](#ecommerce)
+* [eCommerce & CRM](#ecommerce-crm)
 * [Starter Kits](#starter-kits)
 * [Website utilities](#website-utilities)
 * [Code Libraries](#code-libraries)
@@ -49,7 +49,9 @@ Please note * indicates that the package is commercial or may require a license 
 * [Sir Trevor](https://our.umbraco.org/projects/backoffice-extensions/sir-trevor) - An intuitive property-editor for web content.
 * [Skybrud.LinkPicker](https://our.umbraco.org/projects/backoffice-extensions/skybrudlinkpicker/) - a configurable link picker that can be used as either a property editor or grid editor. Supports selecting content, media or specify external URLs.
 * [Skybrud.ImagePicker](https://our.umbraco.org/projects/backoffice-extensions/skybrudimagepicker/) - a configurable image picker that can be used as either a property editor or grid editor. Each image can be supplemented with a title, description and/or link.
+* [Styled Textbox](https://our.umbraco.org/projects/backoffice-extensions/styled-textbox/) - A configural property editor to "replace" the generic textbox & textarea properties. It allows for inline CSS as well as adding classes and having placeholder text.
 * [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - A simple property editor that works as an alternative to the core true/false datatype.
+* [Terratype](https://our.umbraco.org/projects/backoffice-extensions/terratype/) - A fully featured maps data type  supporting multiple map providers (Google Maps, Bing, Leaflet).
 * [Vorto](https://our.umbraco.org/projects/backoffice-extensions/vorto) - Property-editor wrapper for multilingual content entry.
 
 ### SEO Tools
@@ -66,7 +68,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for reading and writing the database elements to disk.
 * [Diplo Trace Log Viewer](https://our.umbraco.org/projects/developer-tools/diplo-trace-log-viewer/) - view Umbraco log files directly from the Developer section in Umbraco.
 
-## eCommerce
+## eCommerce &amp; CRM
 
 * [Merchello](http://www.merchello.com/) - High performance, open source eCommerce package.
 * [uCommerce*](http://www.ucommerce.net/) - .NET eCommerce platform, seamlessly integrates with Umbraco.
